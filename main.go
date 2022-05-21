@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("master hi golang!!")
 	fmt.Println("qfq hi golang!!")
 	fmt.Println("push test")
+	fmt.Println("pull test")
 }
